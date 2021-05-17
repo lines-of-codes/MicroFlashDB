@@ -1,0 +1,14 @@
+{
+	"serveraddress": "127.0.0.1",
+	"serverport": 9000,
+	"maxquerybytes": 1024,
+	"iptype": "IPv4",
+	"isProtected": false,
+	"connpasswd": "password",
+    "encryptdata": false,
+    "encryptionmethod": "default",
+    "encryptionsettings": {
+        "shiftedup": 3
+    },
+	"dbfile": "maindb.mfdb"
+}
